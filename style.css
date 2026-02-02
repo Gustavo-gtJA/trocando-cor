@@ -11,3 +11,9 @@ body{
     flex-direction: column;
     gap: 12px;
 }
+.cor{
+    background-color: var(--cor-bg);
+}
+:root{
+    --cor-bg: #74cf3c;
+}
